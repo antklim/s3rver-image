@@ -8,12 +8,11 @@ Docker image based on [s3rver](https://github.com/jamhall/s3rver) (S3 server imp
 
 #### Usage
 
-1. Run container
+_Run container_
 ```
 $ docker run -it --rm --name s3-container -p <host port>:3000 s3rver
-```
-
-2. Requests  
+```  
+_Requests_
 
   - Get buckets list
   ```
