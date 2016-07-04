@@ -1,0 +1,18 @@
+{
+  "name": "s3rver-image",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anton Klimenko <aklimenko@dius.com.au>",
+  "license": "MIT",
+  "dependencies": {
+    "nconf": "^0.8.4",
+    "s3rver": "^1.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
