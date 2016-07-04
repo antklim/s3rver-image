@@ -10,7 +10,7 @@ Docker image based on [s3rver](https://github.com/jamhall/s3rver) (S3 server imp
 
 _Run container_
 ```
-$ docker run -it --rm --name s3-container -p <host port>:3000 s3rver
+$ docker run -it --rm --name s3-container -p <host port>:3000 antklm/s3rver-image
 ```  
 _Requests_
 
