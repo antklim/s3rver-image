@@ -7,12 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Anton Klimenko <aklimenko@dius.com.au>",
+  "author": "Anton Klimenko <antklim@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "nconf": "^0.8.4",
     "s3rver": "^1.0.0"
   },
-  "devDependencies": {},
-  "description": ""
+  "description": "fake s3 server"
 }
